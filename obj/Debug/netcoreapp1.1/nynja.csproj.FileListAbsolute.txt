@@ -1,0 +1,8 @@
+/Users/nmy/nynja/bin/Debug/netcoreapp1.1/nynja.deps.json
+/Users/nmy/nynja/bin/Debug/netcoreapp1.1/nynja.runtimeconfig.json
+/Users/nmy/nynja/bin/Debug/netcoreapp1.1/nynja.runtimeconfig.dev.json
+/Users/nmy/nynja/bin/Debug/netcoreapp1.1/nynja.dll
+/Users/nmy/nynja/bin/Debug/netcoreapp1.1/nynja.pdb
+/Users/nmy/nynja/obj/Debug/netcoreapp1.1/nynja.AssemblyInfo.cs
+/Users/nmy/nynja/obj/Debug/netcoreapp1.1/nynja.dll
+/Users/nmy/nynja/obj/Debug/netcoreapp1.1/nynja.pdb
